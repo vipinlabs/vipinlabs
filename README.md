@@ -70,17 +70,19 @@ Currently interested in:
 
 FastAPI • REST APIs • WebSockets • AsyncIO • Microservices
 
-### AI / LLM
+### AI / LLM / ML
+
+![AI / LLM / ML](https://skillicons.dev/icons?i=pytorch,opencv,sklearn,tensorflow)
 
 OpenAI • LangChain • LangGraph • RAG • AI Agents • Embeddings • Prompt Engineering
 
 ### Database
 
-![Database](https://skillicons.dev/icons?i=postgres,mongodb,redis)
+![Database](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis)
 
 ### DevOps
 
-![DevOps](https://skillicons.dev/icons?i=docker,linux,git,github,azure,nginx)
+![DevOps](https://skillicons.dev/icons?i=docker,linux,git,github,aws,azure,jenkins,nginx,docker)
 
 ---
 
