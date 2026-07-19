@@ -166,7 +166,7 @@ AI-powered email processing system that classifies resumes and job descriptions,
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-<a href="https://github.com/MRV-CODE-CLOUD">
+<a href="https://github.com/vipinlabs">
 <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
