@@ -175,7 +175,6 @@ AI-powered email processing system that classifies resumes and job descriptions,
 </a>
 
 </p>
----
 
 <div align="center">
 
