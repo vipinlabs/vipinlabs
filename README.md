@@ -1,6 +1,9 @@
 <div align="center">
 
 # Hi 👋, I'm Vipin Yadav
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+Backend+Engineer;Building+Production-Ready+AI+Systems;FastAPI+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Always+Learning+%E2%9C%A8" />
+</p>
 
 ### AI Backend Engineer • LLM Engineer • Building Production-Ready AI Systems
 
@@ -151,11 +154,14 @@ AI-powered email processing system that classifies resumes and job descriptions,
 
 # 🤝 Let's Connect
 
-💼 Portfolio
+🌐 **Portfolio:**  
+[https://vipinportfolio.com](https://vipinportfolio.com)
 
-🔗 LinkedIn
+💼 **LinkedIn:**  
+[https://linkedin.com/in/vipin-ai](https://linkedin.com/in/vipin-ai)
 
-📧 Email
+📧 **Email:**  
+[hellovipin007@example.com](mailto:hellovipin007@example.com)
 
 ---
 
