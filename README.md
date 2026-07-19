@@ -12,9 +12,9 @@ Passionate about designing scalable backend architectures, AI agents, Retrieval-
 </p>
 
 <p>
-<a href="https://vipinportfolio.com">🌐 Portfolio</a> •
+<a href="https://vipinlabs.com">🌐 Portfolio</a> •
 <a href="https://linkedin.com/in/vipin-ai">💼 LinkedIn</a> •
-<a href="mailto:hellovipin007@email.com">📧 Email</a>
+<a href="mailto:vipin@vipinlabs.com">📧 Email</a>
 </p>
 
 </div>
@@ -158,7 +158,7 @@ AI-powered email processing system that classifies resumes and job descriptions,
 
 <p align="center">
 
-<a href="https://vipinportfolio.com">
+<a href="https://vipinlabs.com">
 <img src="https://skillicons.dev/icons?i=vercel" width="50"/>
 </a>
 
@@ -170,7 +170,7 @@ AI-powered email processing system that classifies resumes and job descriptions,
 <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:vipin@vipinlabs.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
