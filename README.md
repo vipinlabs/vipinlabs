@@ -152,17 +152,27 @@ AI-powered email processing system that classifies resumes and job descriptions,
 
 ---
 
-# 🤝 Let's Connect
+<h2 align="center">🤝 Connect With Me</h2>
 
-🌐 **Portfolio:**  
-[https://vipinportfolio.com](https://vipinportfolio.com)
+<p align="center">
 
-💼 **LinkedIn:**  
-[https://linkedin.com/in/vipin-ai](https://linkedin.com/in/vipin-ai)
+<a href="https://vipinportfolio.com">
+<img src="https://skillicons.dev/icons?i=vercel" width="50"/>
+</a>
 
-📧 **Email:**  
-[hellovipin007@example.com](mailto:hellovipin007@example.com)
+<a href="https://linkedin.com/in/vipin-ai">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
 
+<a href="https://github.com/MRV-CODE-CLOUD">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
+</p>
 ---
 
 <div align="center">
